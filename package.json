@@ -1,0 +1,25 @@
+{
+  "name": "doc-zf.wuxiao.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build",
+    "deploy": "bash ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/doc-zf.wuxiao.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/doc-zf.wuxiao.io/issues"
+  },
+  "homepage": "https://github.com/weisuoke/doc-zf.wuxiao.io#readme",
+  "dependencies": {
+    "dumi": "^1.1.37"
+  }
+}
