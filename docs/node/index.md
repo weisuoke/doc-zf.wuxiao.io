@@ -16,4 +16,5 @@ order: 1
 6. [完成 promise 实现](/node/06)
 6. [promise 其他方法的实现](/node/07)
 6. [Promise.all的实现原理](/node/08)
+6. [Promise.finally实现原理](/node/09)
 
