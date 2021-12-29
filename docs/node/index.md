@@ -17,4 +17,5 @@ order: 1
 6. [promise 其他方法的实现](/node/07)
 6. [Promise.all的实现原理](/node/08)
 6. [Promise.finally实现原理](/node/09)
+6. [generator使用和实现](/node/10)
 
