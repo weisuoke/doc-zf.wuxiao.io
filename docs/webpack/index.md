@@ -1,7 +1,7 @@
 ---
 nav:
   title: Webpack
-  order: 5
+  order: 10
 title: Webpack 目录
 order: 1
 ---
