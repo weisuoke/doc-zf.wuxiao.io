@@ -14,8 +14,8 @@ order: 1
 
 ### React 核心
 
-1. [实现JSX](/react/react202112/1)
-2. 实现ReactDOM.render
+1. [实现JSX](/react202112/1)
+2. [实现ReactDOM.render](/react202112/2)
 3. 实现函数组件和类组件
 4. 实现类组件的更新
 5. 实现批量更新
