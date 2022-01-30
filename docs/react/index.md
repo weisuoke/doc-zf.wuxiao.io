@@ -2,7 +2,9 @@
 nav:
   title: React
   order: 15
-title: React 目录
+group:
+  title: React 目录
+  order: 1
 order: 1
 ---
 
