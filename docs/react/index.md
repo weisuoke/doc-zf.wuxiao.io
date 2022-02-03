@@ -36,7 +36,7 @@ order: 1
 18. [实现useState+useMemo+useCallback](/react202112/18)
 19. [实现useReducer](/react202112/19)
 20. [useEffect](/react202112/20)
-21. useImperativeHandle
+21. [useLayoutEffect + useImperativeHandle](/react202112/21)
 22. 重构Fragment
 
 ### React路由
