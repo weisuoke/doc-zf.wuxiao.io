@@ -35,7 +35,7 @@ order: 1
 17. [性能优化](/react202112/17)
 18. [实现useState+useMemo+useCallback](/react202112/18)
 19. [实现useReducer](/react202112/19)
-20. useEffect
+20. [useEffect](/react202112/20)
 21. useImperativeHandle
 22. 重构Fragment
 
