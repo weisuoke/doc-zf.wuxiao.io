@@ -37,7 +37,7 @@ order: 1
 19. [实现useReducer](/react202112/19)
 20. [useEffect](/react202112/20)
 21. [useLayoutEffect + useImperativeHandle](/react202112/21)
-22. 重构Fragment
+22. 重构 + Fragment
 
 ### React路由
 
