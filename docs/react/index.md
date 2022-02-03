@@ -96,7 +96,7 @@ order: 1
 67. 实现购物车
 68. 实现购物车动画和持久化
 69. 搭建后台初始化环境
-70. 实现用户接口。
+70. 实现用户接口
 
 ## React源码专题课
 
@@ -195,3 +195,42 @@ adv1023. 使用React18新API
 adv1031. 自定义Hooks_1
 
 adv1032. 自定义Hooks_2
+
+### ADV104 实现新版JSX转换器
+
+adv1041. 使用jsx转换器
+
+adv1042. 实现jsx转换器
+
+### ADV105 实现create-react-app
+
+adv1051. 实现create-react-app_1
+
+adv1052. 实现create-react-app_2
+
+adv1053. 实现react-scripts中的build命令
+
+adv1054. react-scripts源码中的webpack源码
+
+### ADV106 React性能优化
+
+adv1061. react性能优化_1
+
+adv1062. react性能优化_2
+
+adv1063. react性能优化_3
+
+adv1064. react性能优化_4
+
+### ADV107 UMI3实战和手写实现
+
+adv1071. umi3实战
+
+adv1072. 实现运行时
+
+adv1073. 如何调试umi3源码
+
+adv1074. 实现命令插件的注册和执行
+
+adv1074. 实现hook的注册和触发
+
