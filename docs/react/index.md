@@ -62,9 +62,9 @@ order: 1
 38. [实现bindActionCreators](/react202112/38)
 39. [实现combineReducers](/react202112/39)
 40. [实现react-redux](/react202112/40)
-41. 实现单个中间件
-42. 实现compose方法
-43. 实现三个中间件
+41. [实现单个中间件](/react202112/41)
+42. [实现compose方法](/react202112/42)
+43. 实现三个中间件的级联
 44. 实现promise和thunk中间件
 45. 使用connected-react-router
 46. redux-first-history实战
