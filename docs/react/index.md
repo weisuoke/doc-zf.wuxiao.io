@@ -65,7 +65,7 @@ order: 1
 41. [实现单个中间件](/react202112/41)
 42. [实现compose方法](/react202112/42)
 43. [实现三个中间件的级联](/react202112/43)
-44. 实现promise和thunk中间件
+44. [实现promise和thunk中间件](/react202112/44)
 45. 使用connected-react-router
 46. redux-first-history实战
 47. 实现redux-first-history
