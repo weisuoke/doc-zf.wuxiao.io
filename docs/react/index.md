@@ -60,7 +60,7 @@ order: 1
 
 37. [实现createStore](/react202112/37)
 38. [实现bindActionCreators](/react202112/38)
-39. 实现combineReducers
+39. [实现combineReducers](/react202112/39)
 40. 实现react-redux
 41. 实现单个中间件
 42. 实现compose方法
