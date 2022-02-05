@@ -49,9 +49,9 @@ Github仓库：[zf-react202112-router](https://github.com/weisuoke/zf-react20211
 24. [使用基本路由](/react202112/24)
 25. [实现基本路由](/react202112/25)
 26. [实现history](/react202112/26)
-27. [实现路径参数](/react202112/26)
-28. 实现Link导航
-29. 实现NavLink
+27. [实现路径参数](/react202112/27)
+28. [实现Link导航](/react202112/28)
+29. [实现NavLink](/react202112/29)
 30. 实现受保护路由
 31. 使用嵌套路由
 32. 调试官方源码
