@@ -14,7 +14,7 @@ order: 1
 
 ### React 核心
 
-[zf-react-202112](https://github.com/weisuoke/zf-react-202112)
+Github仓库：[zf-react-202112](https://github.com/weisuoke/zf-react-202112)
 
 1. [实现JSX](/react202112/1)
 2. [实现ReactDOM.render](/react202112/2)
@@ -43,11 +43,13 @@ order: 1
 
 **react-router-dom(v6)**
 
+Github仓库：[zf-react202112-router](https://github.com/weisuoke/zf-react202112-router)
+
 23. [路由的实现基本原理](/react202112/23)
 24. [使用基本路由](/react202112/24)
 25. [实现基本路由](/react202112/25)
-26. [实现history](/react202112/25)
-27. 实现路径参数
+26. [实现history](/react202112/26)
+27. [实现路径参数](/react202112/26)
 28. 实现Link导航
 29. 实现NavLink
 30. 实现受保护路由
@@ -59,6 +61,8 @@ order: 1
 36. 计算路由分支的权重
 
 ### Redux
+
+Github仓库：[zf-react202112-redux](https://github.com/weisuoke/zf-react202112-redux)
 
 37. [实现createStore](/react202112/37)
 38. [实现bindActionCreators](/react202112/38)
