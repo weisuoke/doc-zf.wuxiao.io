@@ -13,7 +13,7 @@ order: 1
 1. [webpack的核心概念](/webpack202111/01)
 2. [开发环境配置样式](/webpack202111/02)
 3. [如何打包第三方库](/webpack202111/03)
-4. 配置devServer
+4. [配置devServer](/webpack202111/04)
 5. 学源码前的基础知识
 6. 打包后文件分析实现
 7. COMMONJS加载ES_MODULE
