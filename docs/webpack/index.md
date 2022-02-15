@@ -14,7 +14,7 @@ order: 1
 2. [开发环境配置样式](/webpack202111/02)
 3. [如何打包第三方库](/webpack202111/03)
 4. [配置devServer](/webpack202111/04)
-5. 学源码前的基础知识
+5. [学源码前的基础知识](/webpack202111/05)
 6. 打包后文件分析实现
 7. COMMONJS加载ES_MODULE
 8. ES加载COMMON
