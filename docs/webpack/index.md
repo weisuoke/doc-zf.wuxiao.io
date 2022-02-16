@@ -15,7 +15,7 @@ order: 1
 3. [如何打包第三方库](/webpack202111/03)
 4. [配置devServer](/webpack202111/04)
 5. [学源码前的基础知识](/webpack202111/05)
-6. 打包后文件分析实现
+6. [打包后文件分析实现](/webpack202111/06)
 7. COMMONJS加载ES_MODULE
 8. ES加载COMMON
 9. 实现懒加载
