@@ -17,9 +17,9 @@ order: 1
 5. [学源码前的基础知识](/webpack202111/05)
 6. [打包后文件分析实现](/webpack202111/06)
 7. [COMMONJS加载ES_MODULE](/webpack202111/07)
-8. ES加载COMMON
-9. 实现懒加载
-10. 实现babel插件
+8. [ES加载COMMON](/webpack202111/08)
+9. [实现懒加载](/webpack202111/09)
+10. [实现babel插件](/webpack202111/10)
 11. 编写babel插件
 12. webpack工作流_1
 13. webpack工作流_2
