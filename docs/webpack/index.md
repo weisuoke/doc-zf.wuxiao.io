@@ -25,8 +25,8 @@ order: 1
 9. [实现懒加载](/webpack202111/09)
 10. [实现babel插件](/webpack202111/10)
 11. [编写babel插件](/webpack202111/11)
-12. webpack工作流_1
-13. webpack工作流_2
+12. [webpack工作流_1](/webpack202111/12): https://github.com/weisuoke/zf-webpack202111-flow
+13. [webpack工作流_2](/webpack202111/12)
 14. loader的工作流
 15. 实现babel-loader
 16. 实现loader-runner
