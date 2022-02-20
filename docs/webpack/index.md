@@ -28,7 +28,7 @@ order: 1
 12. [webpack工作流_1](/webpack202111/12): https://github.com/weisuoke/zf-webpack202111-flow
 13. [webpack工作流_2](/webpack202111/12)
 14. [loader的工作流](/webpack202111/14)
-15. 实现babel-loader
+15. [实现babel-loader](/webpack202111/15)
 16. 实现loader-runner
 17. 实现style-loader
 18. tapable基本使用
