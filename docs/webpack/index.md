@@ -52,9 +52,9 @@ order: 1
 
 19. [实现 SyncHook](/webpack202111/19)
 
-20. 实现AsyncParallelHook
+20. [实现AsyncParallelHook](/webpack202111/20)
 
-21. 实现hookMap和stage和before
+21. [实现hookMap和stage和before](/webpack202111/21)
 
 22. 实现webpack插件
 
