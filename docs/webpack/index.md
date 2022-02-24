@@ -70,9 +70,9 @@ order: 1
 
 28. [配置库的导出](/webpack202111/28)
 
-29. 优化图片和CSS
+29. [优化图片和CSS](/webpack202111/29)
 
-30. 三种hash
+30. [三种hash](/webpack202111/30)
 
 31. treeshaking
 

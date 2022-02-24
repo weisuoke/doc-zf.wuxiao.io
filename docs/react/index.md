@@ -110,11 +110,11 @@ Github仓库：[zf-react202112-redux](https://github.com/weisuoke/zf-react202112
 
 [r1701. ReactJSX](/reactsource/v17/1)
 
-r1702. ReactJSX
+[r1702. ReactJSX](/reactsource/v17/2)
 
-r1703. ReactFiber
+[r1703. ReactFiber](/reactsource/v17/3)
 
-r1704. ReactFiber
+[r1704. ReactFiber](/reactsource/v17/3)
 
 r1705. DOM-DIFF算法
 
@@ -162,6 +162,14 @@ r1726. 实现同时调度多个任务
 
 r1727. 优先级任务和延迟任务
 
+r1728. 位运算
+
+r1729. 最小堆
+
+r1730. 更新优先级
+
+r1731. 二进制操作
+
 ## React组件库专题课
 
 c01. React树组件（上）
@@ -174,9 +182,9 @@ c04. 实现Antdesign4的Form组件（下）
 
 c05. React文件拖拽上传组件
 
-c06. 实现keepalive基本功能
+c06. [实现keepalive基本功能](/react-component/c06)
 
-c07. 实现滚动监听和缓存销毁
+c07. [实现滚动监听和缓存销毁](/react-component/c06)
 
 ## 进阶课
 
