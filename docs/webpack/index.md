@@ -74,9 +74,9 @@ order: 1
 
 30. [三种hash](/webpack202111/30)
 
-31. treeshaking
+31. [treeshaking](/webpack202111/31)
 
-32. 模块联邦
+32. [模块联邦](/webpack202111/32)
 
 33. 代码分割
 
