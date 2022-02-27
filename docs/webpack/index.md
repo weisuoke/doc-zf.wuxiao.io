@@ -80,9 +80,9 @@ order: 1
 
 33. [代码分割](/webpack202111/33)
 
-34. splitChunks_1
+34. [splitChunks_1](/webpack202111/33)
 
-35. splitChunks_2
+35. [splitChunks_2](/webpack202111/33)
 
 36. 实现preload-webpack-plugin
 
