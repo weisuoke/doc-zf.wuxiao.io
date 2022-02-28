@@ -122,7 +122,7 @@ Github仓库：[zf-react202112-redux](https://github.com/weisuoke/zf-react202112
 
 [r1707. monoRepos](/reactsource/v17/7)
 
-r1708. setState的表示效果
+[r1708. setState的表示效果](/reactsource/v17/8)
 
 r1709. setState的执行过程
 
