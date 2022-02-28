@@ -116,7 +116,7 @@ Github仓库：[zf-react202112-redux](https://github.com/weisuoke/zf-react202112
 
 [r1704. ReactFiber](/reactsource/v17/3)
 
-r1705. DOM-DIFF算法
+[r1705. DOM-DIFF算法](/reactsource/v17/5)
 
 r1706. 合成事件
 
