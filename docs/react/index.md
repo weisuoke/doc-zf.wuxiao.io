@@ -118,9 +118,9 @@ Github仓库：[zf-react202112-redux](https://github.com/weisuoke/zf-react202112
 
 [r1705. DOM-DIFF算法](/reactsource/v17/5)
 
-r1706. 合成事件
+[r1706. 合成事件](/reactsource/v17/6)
 
-r1707. monoRepos
+[r1707. monoRepos](/reactsource/v17/7)
 
 r1708. setState的表示效果
 
